@@ -1,0 +1,11 @@
+.main-header,
+.categories-nav,
+footer{
+	border:1px solid black;
+}
+
+.article-category{
+	color:red;
+}
+
+
